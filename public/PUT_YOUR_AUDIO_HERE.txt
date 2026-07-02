@@ -1,0 +1,13 @@
+Rename your own copy of the birthday BGM to exactly:
+
+    theme.mp3
+
+...and place it in this same "public" folder, right next to this file.
+
+The site automatically looks for /theme.mp3 at runtime and plays it once
+the birthday page loads. If it's missing, the site falls back to a short
+original instrumental so it's never silent — but your own file will
+always be used first if it's here.
+
+(This project does not ship with any copyrighted audio bundled in — you
+need to add your own legally-owned file.)
