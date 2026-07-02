@@ -59,7 +59,7 @@ export default function Page4Finale() {
   );
 
   return (
-    <div className="relative flex h-full w-full flex-col items-center justify-center overflow-y-auto px-6 pt-36 pb-20 text-center no-scrollbar">
+    <div className="relative flex h-full w-full flex-col items-start justify-center overflow-y-auto px-6 pt-36 pb-20 text-center no-scrollbar">
       {sparkles.map((s) => (
         <motion.span
           key={s.id}
