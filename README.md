@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Happy Birthday, Barani 💜
 
 A premium, cinematic 4-page birthday site built with React + TypeScript + Tailwind CSS + Framer Motion.
@@ -49,3 +50,6 @@ src/
 
 All four pages share the same dark-purple aurora background, starfield,
 and mouse-following glow so nothing feels disconnected between pages.
+=======
+# bdy_wish
+>>>>>>> 6e0f37acb293b5a51bdd2b43a60053b0fb82244e
