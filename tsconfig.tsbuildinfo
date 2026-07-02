@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Background.tsx","./src/components/Divider.tsx","./src/components/IntroGate.tsx","./src/components/NavControls.tsx","./src/components/TopBar.tsx","./src/hooks/useMusic.ts","./src/pages/Page1Greeting.tsx","./src/pages/Page2Friendship.tsx","./src/pages/Page3Letter.tsx","./src/pages/Page4Finale.tsx"],"version":"5.9.3"}
