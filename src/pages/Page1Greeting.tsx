@@ -9,15 +9,15 @@ interface Props {
 const PARAGRAPHS = [
   "Hai da...!! 💜",
   "Indha website aa unakaga dhan panniruken 😌",
-  "Unaku idhu pidikumanu enaku sathiyama theriyadhu...",
-  "But oru vishayam mattum theriyum.",
+  "Unaku idhu pidikumanu theriyala...",
+  "But oru vishayam yosichiko..",
   "Idhula enoda little efforts,\nlittle thoughts,\nand konjam feelings um iruku ✨",
   "Adhanala kandipa full ah paathu mudichitu,\nepdi irundhuchu nu marakama feedback sollu daa 😤💜",
-  "Pidichirundha sollu...\npidikala na adhayum sollu...",
-  "Aana silent ah poidadha 😂",
-  "Because un reaction kaaga dhan\nivlo neram eduthu pannadhu 😌✨",
+  "Pidichirundha sollu...\npidikala nalum solluuu...",
+  "Aana silent ah povadhaa 😂",
+  "Because un reaction venum\nadhanala dha ivlo neram eduthu pannadhu 😌✨",
   "Seri...",
-  "Ippo start pannu 💜",
+  "Ippo click pannu 💜!!",
 ];
 
 export default function Page1Greeting({ onReady, onNext }: Props) {
@@ -49,7 +49,7 @@ export default function Page1Greeting({ onReady, onNext }: Props) {
   );
 
   return (
-    <div className="relative flex h-full w-full flex-col items-center justify-center overflow-y-auto px-6 py-24 text-center no-scrollbar">
+    <div className="relative flex h-full w-full flex-col items-center justify-center overflow-y-auto px-6 pt-36 pb-20 text-center no-scrollbar">
       <div
         className="pointer-events-none fixed h-[460px] w-[460px] rounded-full blur-3xl"
         style={{ background: "radial-gradient(circle, rgba(166,99,209,0.3), transparent 70%)" }}
